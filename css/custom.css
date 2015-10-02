@@ -22,11 +22,11 @@
   color: #000;
   background-image: url("img/blurb_bg.jpg");
   background-position: -50px -330px;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
 }
 
 .blurb h3 {
-  padding-top: 120px;
+  padding-top: 80px;
   padding-bottom: 30px;
 }
 
